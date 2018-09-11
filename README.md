@@ -2,9 +2,13 @@
 algorithm for selecting the optimal development effort predictor method
 
 +++++++Readme Algorithmus zur Auswahl objektiver Schätzmethoden+++++++++++++++
+
 +Version: 1.0+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 +Veröffentlicht: 20180911+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 +Autor: Marco Kremer - https://github.com/marcokremer+++++++++++++++++++++++++
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Anmerkung: 
